@@ -1,0 +1,5 @@
+name: Analyze Data
+on:
+  push:
+    branches:
+      - main
