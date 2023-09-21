@@ -71,3 +71,8 @@ is that the issues tracker can be used to raise issues. Your feedback is highly
 welcome! We hope we can gradually improve data quality. Flaws you come 
 accross are essential for the progress that can be made to improve data quality.
 
+## Read me
+Neural Networks and Deep Learning: From the Neuron to ChatG Summer semester TUM 2023
+Group 3
+This is a brief explanation of how to use the repository. This repository is a fork form the GermaParlTE repository where there are the XML raw files form the parliamentary speeches of the Bundestag. To be able to recreate our work one must pass the XML files of their choosing through the Data_Preparation_final. After that to get the embeddings, you should pass the prepared data files through the notebook embeddings and finally to recreate the party classification the files must be passed via the Part_Classification_final file.
+
